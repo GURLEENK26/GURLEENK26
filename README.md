@@ -31,15 +31,12 @@
 
 ---
 
-## 🎥 Portfolio
-- 🌐 [Live Portfolio Website](https://gurleenk26.github.io/my-portfolio/)  
+
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurleen-kaur-a16992225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gurk2624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/GURLEENK26"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/gurk_26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
